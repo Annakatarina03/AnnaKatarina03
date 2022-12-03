@@ -20,7 +20,8 @@
   <a href="https://instagram.com/hkanna03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:katarinanna3c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anna-katarina-68bb90234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/hkanna03" target="_blanck"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white></a>
-  <a href="https://api.whatsapp.com/send?phone=5561999969905" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
+  <a href="https://t.me/hkanna03" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>   
+  <a href="https://api.whatsapp.com/send?phone=5561999969905" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  </div>
+
+  ![Snake animation](https://github.com/AnnaKatarina03/AnnaKatarina03/blob/output/github-contribution-grid-snake.svg)
