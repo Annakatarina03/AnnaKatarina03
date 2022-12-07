@@ -1,4 +1,4 @@
-### Olá! Eu sou a Anna Katarina 
+### Olá! Eu sou a Anna Katarina 😊
 
 <div align="center">
   <a href="https://github.com/AnnaKatarina03">
